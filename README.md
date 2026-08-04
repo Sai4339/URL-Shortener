@@ -137,7 +137,7 @@ GET /api/stats/{shortCode}
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-github-username>/url-shortener.git
+git clone https://github.com/Sai4339/URL-Shortener
 ```
 
 ### Configure MySQL
